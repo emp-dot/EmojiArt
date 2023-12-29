@@ -4,17 +4,18 @@ This is an emojiArt game where users can set the background, position emojis and
 
 
 ### App Description
-`TODO://` This is a card memory game where users can interactively choose random cards which are hidden and if they matches, it spins.
+`TODO://` This is an emojiArt game where users can set the background, position emojis and edit the palettes. Available on macOS, iPad, and iPhone (multi-platform).
 
 ### App Walk-though
-`TODO://` <img src="https://github.com/emp-dot/Card_Memory_Game/blob/main/Memory.gif" width="400" />
+`TODO://` <img src="" width="400" />
 
 
 ## Required
 - [x] Create New Project in Xcode using Swift Language
-- [x] Add Emojis which are reshuffled for the users to choose from
-- [x] Built using MVVM architecture
+- [x] Created an emoji Palette for editing the background
+- [x] Copy and Paste images from URL or choose from file unto the game
+- [x] Built using MVVM/ MVC architecture
 - [x] Push code to GitHub
 ## Optional
-- [x] toggle the shuffle button for the cards to reshuffle
-- [x] toggle restart to start the game
+- [x] Built across multi-platforms 
+- [x] Presented in a document view group
