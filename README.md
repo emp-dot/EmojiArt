@@ -7,7 +7,7 @@ This is an emojiArt game where users can set the background, position emojis and
 `TODO://` This is an emojiArt game where users can set the background, position emojis and edit the palettes. Available on macOS, iPad, and iPhone (multi-platform).
 
 ### App Walk-though
-`TODO://` `TODO://` <img src="https://github.com/emp-dot/Card_Memory_Game/blob/main/Memory.gif" width="400" />
+`TODO://` `TODO://` <img src="https://github.com/emp-dot/EmojiArt/blob/main/Untitled%20copy.mov" width="400" />
 
 
 ## Required
